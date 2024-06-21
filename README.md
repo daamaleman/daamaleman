@@ -6,7 +6,7 @@
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px></picture> **About me**
 
-<picture> <img align="right" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width = 400px></picture>
+<picture> <img align="right" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width = 200px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
