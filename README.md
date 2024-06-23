@@ -6,15 +6,18 @@
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px></picture> **About me**
 
-<picture> <img align="right" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width = 200px></picture>
+<picture> <img align="right" src="https://cdn.dribbble.com/users/966681/screenshots/2896143/working.gif" width = 250px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
 - I'm currently studying System Engineering in Universisad Americana (<picture><img src = "https://logosnicas.com/wp-content/uploads/2022/08/universidad_americana_2020.png" width = 30px></picture>)
-- I'm learning HTML and CSS 
-- 
+- I'm learning HTML and CSS <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width = 23px></picture> <picture><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width = 16px></picture>
+- I'm from Managua - Nicaragua
+- This is my first year studying System Engineering
+- I want learn Java, JS and Python
+- I only know 2 programming lenguages,  C and C++
 
 ## 💥 GitHub Stats
 
