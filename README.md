@@ -25,7 +25,7 @@
 </p>
 
 - 🎓 I'm currently studying System Engineering at Universidad Americana <picture><img src="https://logosnicas.com/wp-content/uploads/2022/08/universidad_americana_2020.png" width="30px" alt="UAM Logo"/></picture>
-- 🌱 Currently learning **HTML** <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="23px" alt="HTML5"/></picture> and **CSS** <picture><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="16px" alt="CSS3"/></picture>
+- 🌱 Currently learning **HTML** <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="23px" alt="HTML5"/></picture> and **CSS** <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16px" alt="CSS3"/></picture>
 - 💻 I know **JavaScript**, **Python**, **NestJS**, **C#**, **C**, and **PHP** <picture><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="18px" alt="JS"/></picture> <picture><img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-6815592-5602757.png?f=webp" width="20px" alt="Python"/></picture> <picture><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" width="20px" alt="NestJS"/></picture> <picture><img src="https://www.php.net/images/logos/new-php-logo.svg" width="30px" alt="PHP"/></picture>
 - 🌎 From Managua, Nicaragua <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/200px-Flag_of_Nicaragua.svg.png" width="25px" alt="Nicaragua Flag"/></picture>
 - 🗓️ Second year studying System Engineering
@@ -34,7 +34,7 @@
 **Languages I use:**
 <p align="center">
   <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="23px" alt="HTML5"/></picture>
-  <picture><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="16px" alt="CSS3"/></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16px" alt="CSS3"/></picture>
   <picture><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="18px" alt="JS"/></picture>
   <picture><img src="https://cdn3d.iconscout.com/3d/premium/thumb/python-6815592-5602757.png?f=webp" width="20px" alt="Python"/></picture>
   <picture><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" width="20px" alt="NestJS"/></picture>
@@ -51,8 +51,8 @@
 <p align="center">
   <picture><img src="https://laravel.com/img/logomark.min.svg" width="28px" alt="Laravel"/></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28px" alt="Bootstrap"/></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="28px" alt="Tailwind CSS"/></picture>
-  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="28px" alt="NestJS"/></picture>
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28px" alt="Tailwind CSS"/></picture>
+  <picture><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" width="20px" alt="NestJS"/></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="28px" alt="Flask"/></picture>
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="28px" alt="Django"/></picture>
 </p>
